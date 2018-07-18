@@ -30,7 +30,7 @@ namespace wirelessCharging
         
         //Infomation
         private string strLogPath;                      //log路径
-        //Result
+        //Result 
         private int iPass;
         private int iFail;
         //url
