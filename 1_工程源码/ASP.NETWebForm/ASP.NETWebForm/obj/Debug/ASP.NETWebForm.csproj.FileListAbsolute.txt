@@ -1,0 +1,7 @@
+E:\2_工作和软件\1_工作存档\01长虹爱联\禾邦无线充电产品项目\1_工程源码\ASP.NETWebForm\ASP.NETWebForm\bin\ASP.NETWebForm.dll.config
+E:\2_工作和软件\1_工作存档\01长虹爱联\禾邦无线充电产品项目\1_工程源码\ASP.NETWebForm\ASP.NETWebForm\bin\ASP.NETWebForm.dll
+E:\2_工作和软件\1_工作存档\01长虹爱联\禾邦无线充电产品项目\1_工程源码\ASP.NETWebForm\ASP.NETWebForm\bin\ASP.NETWebForm.pdb
+E:\2_工作和软件\1_工作存档\01长虹爱联\禾邦无线充电产品项目\1_工程源码\ASP.NETWebForm\ASP.NETWebForm\obj\Debug\ASP.NETWebForm.dll
+E:\2_工作和软件\1_工作存档\01长虹爱联\禾邦无线充电产品项目\1_工程源码\ASP.NETWebForm\ASP.NETWebForm\obj\Debug\ASP.NETWebForm.pdb
+E:\2_工作和软件\1_工作存档\01长虹爱联\禾邦无线充电产品项目\1_工程源码\ASP.NETWebForm\ASP.NETWebForm\obj\Debug\ASP.NETWebForm.dll.licenses
+E:\2_工作和软件\1_工作存档\01长虹爱联\禾邦无线充电产品项目\1_工程源码\ASP.NETWebForm\ASP.NETWebForm\obj\Debug\ASP.NETWebForm.csprojResolveAssemblyReference.cache

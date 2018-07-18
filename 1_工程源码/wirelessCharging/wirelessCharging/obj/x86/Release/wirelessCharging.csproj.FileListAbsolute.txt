@@ -1,0 +1,16 @@
+E:\2_工作和软件\1_工作存档\01长虹爱联\禾邦无线充电产品项目\1_工程源码\wirelessCharging\wirelessCharging\bin\x86\Release\wirelessCharging.exe.config
+E:\2_工作和软件\1_工作存档\01长虹爱联\禾邦无线充电产品项目\1_工程源码\wirelessCharging\wirelessCharging\bin\x86\Release\wirelessCharging.exe
+E:\2_工作和软件\1_工作存档\01长虹爱联\禾邦无线充电产品项目\1_工程源码\wirelessCharging\wirelessCharging\bin\x86\Release\Newtonsoft.Json.dll
+E:\2_工作和软件\1_工作存档\01长虹爱联\禾邦无线充电产品项目\1_工程源码\wirelessCharging\wirelessCharging\bin\x86\Release\Newtonsoft.Json.pdb
+E:\2_工作和软件\1_工作存档\01长虹爱联\禾邦无线充电产品项目\1_工程源码\wirelessCharging\wirelessCharging\bin\x86\Release\Newtonsoft.Json.xml
+E:\2_工作和软件\1_工作存档\01长虹爱联\禾邦无线充电产品项目\1_工程源码\wirelessCharging\wirelessCharging\obj\x86\Release\wirelessCharging.BackUpForm.resources
+E:\2_工作和软件\1_工作存档\01长虹爱联\禾邦无线充电产品项目\1_工程源码\wirelessCharging\wirelessCharging\obj\x86\Release\wirelessCharging.InBox.resources
+E:\2_工作和软件\1_工作存档\01长虹爱联\禾邦无线充电产品项目\1_工程源码\wirelessCharging\wirelessCharging\obj\x86\Release\wirelessCharging.Properties.Resources.resources
+E:\2_工作和软件\1_工作存档\01长虹爱联\禾邦无线充电产品项目\1_工程源码\wirelessCharging\wirelessCharging\obj\x86\Release\wirelessCharging.Search.resources
+E:\2_工作和软件\1_工作存档\01长虹爱联\禾邦无线充电产品项目\1_工程源码\wirelessCharging\wirelessCharging\obj\x86\Release\wirelessCharging.Setting.resources
+E:\2_工作和软件\1_工作存档\01长虹爱联\禾邦无线充电产品项目\1_工程源码\wirelessCharging\wirelessCharging\obj\x86\Release\wirelessCharging.Wait.resources
+E:\2_工作和软件\1_工作存档\01长虹爱联\禾邦无线充电产品项目\1_工程源码\wirelessCharging\wirelessCharging\obj\x86\Release\wirelessCharging.WpcTest.resources
+E:\2_工作和软件\1_工作存档\01长虹爱联\禾邦无线充电产品项目\1_工程源码\wirelessCharging\wirelessCharging\obj\x86\Release\wirelessCharging.csproj.GenerateResource.Cache
+E:\2_工作和软件\1_工作存档\01长虹爱联\禾邦无线充电产品项目\1_工程源码\wirelessCharging\wirelessCharging\obj\x86\Release\wirelessCharging.exe.licenses
+E:\2_工作和软件\1_工作存档\01长虹爱联\禾邦无线充电产品项目\1_工程源码\wirelessCharging\wirelessCharging\obj\x86\Release\wirelessCharging.exe
+E:\2_工作和软件\1_工作存档\01长虹爱联\禾邦无线充电产品项目\1_工程源码\wirelessCharging\wirelessCharging\obj\x86\Release\wirelessCharging.MainForm.resources

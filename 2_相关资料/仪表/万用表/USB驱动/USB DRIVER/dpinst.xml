@@ -1,0 +1,2016 @@
+﻿<?xml version="1.0" ?>
+<dpInst>
+    <!-- Arabic - Saudi Arabia -->
+    <language code="0x0401">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installer</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Bulgarian -->
+    <language code="0x0402">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Catalan -->
+    <language code="0x0403">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Chinese - Taiwan -->
+    <language code="0x0404">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Czech -->
+    <language code="0x0405">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Danish -->
+    <language code="0x0406">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- German - Germany -->
+    <language code="0x0407">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Greek -->
+    <language code="0x0408">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- English - United States -->
+    <language code="0x0409">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Spanish - Spain (Traditional) -->
+    <language code="0x040A">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Finnish -->
+    <language code="0x040B">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- French - France -->
+    <language code="0x040C">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Hebrew -->
+    <language code="0x040D">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Hungarian -->
+    <language code="0x040E">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Icelandic -->
+    <language code="0x040F">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Italian - Italy -->
+    <language code="0x0410">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Japanese -->
+    <language code="0x0411">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Korean -->
+    <language code="0x0412">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Dutch - Netherlands -->
+    <language code="0x0413">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Norwegian - Bokml -->
+    <language code="0x0414">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Polish -->
+    <language code="0x0415">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Portuguese - Brazil -->
+    <language code="0x0416">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Romanian - Romania -->
+    <language code="0x0418">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Russian -->
+    <language code="0x0419">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Croatian -->
+    <language code="0x041A">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Slovak -->
+    <language code="0x041B">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Albanian -->
+    <language code="0x041C">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Swedish - Sweden -->
+    <language code="0x041D">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Thai -->
+    <language code="0x041E">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Turkish -->
+    <language code="0x041F">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Urdu -->
+    <language code="0x0420">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Indonesian -->
+    <language code="0x0421">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Ukrainian -->
+    <language code="0x0422">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Belarusian -->
+    <language code="0x0423">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Slovenian -->
+    <language code="0x0424">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Estonian -->
+    <language code="0x0425">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Latvian -->
+    <language code="0x0426">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Lithuanian -->
+    <language code="0x0427">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Farsi - Persian -->
+    <language code="0x0429">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Vietnamese -->
+    <language code="0x042A">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Armenian -->
+    <language code="0x042B">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Azeri - Latin -->
+    <language code="0x042C">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Basque -->
+    <language code="0x042D">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- FYRO Macedonia -->
+    <language code="0x042F">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Afrikaans -->
+    <language code="0x0436">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Georgian -->
+    <language code="0x0437">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Faroese -->
+    <language code="0x0438">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Hindi -->
+    <language code="0x0439">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Malay - Malaysia -->
+    <language code="0x043E">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Kazakh -->
+    <language code="0x043F">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Kyrgyz - Cyrillic -->
+    <language code="0x0440">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Swahili -->
+    <language code="0x0441">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Uzbek - Latin -->
+    <language code="0x0443">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Tatar -->
+    <language code="0x0444">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Punjabi -->
+    <language code="0x0446">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Gujarati -->
+    <language code="0x0447">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Tamil -->
+    <language code="0x0449">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Telugu -->
+    <language code="0x044A">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Kannada -->
+    <language code="0x044B">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Marathi -->
+    <language code="0x044E">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Sanskrit -->
+    <language code="0x044F">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Mongolian -->
+    <language code="0x0450">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Galician -->
+    <language code="0x0456">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Konkani -->
+    <language code="0x0457">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Syriac -->
+    <language code="0x045A">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Divehi; Dhivehi; Maldivian -->
+    <language code="0x0465">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Arabic - Iraq -->
+    <language code="0x0801">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Chinese - China -->
+    <language code="0x0804">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- German - Switzerland -->
+    <language code="0x0807">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- English - Great Britain -->
+    <language code="0x0809">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Spanish - Mexico -->
+    <language code="0x080A">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- French - Belgium -->
+    <language code="0x080C">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Italian - Switzerland -->
+    <language code="0x0810">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Dutch - Belgium -->
+    <language code="0x0813">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Norwegian - Nynorsk -->
+    <language code="0x0814">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Portuguese - Portugal -->
+    <language code="0x0816">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Serbian - Latin -->
+    <language code="0x081A">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Swedish - Finland -->
+    <language code="0x081D">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Azeri - Cyrillic -->
+    <language code="0x082C">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Malay - Brunei -->
+    <language code="0x083E">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Uzbek - Cyrillic -->
+    <language code="0x0843">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Arabic - Egypt -->
+    <language code="0x0C01">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Chinese - Hong Kong SAR -->
+    <language code="0x0C04">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- German - Austria -->
+    <language code="0x0C07">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- English - Australia -->
+    <language code="0x0C09">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- French - Canada -->
+    <language code="0x0C0C">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Serbian - Cyrillic -->
+    <language code="0x0C1A">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Arabic - Libya -->
+    <language code="0x1001">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Chinese - Singapore -->
+    <language code="0x1004">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- German - Luxembourg -->
+    <language code="0x1007">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- English - Canada -->
+    <language code="0x1009">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Spanish - Guatemala -->
+    <language code="0x100A">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- French - Switzerland -->
+    <language code="0x100C">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Arabic - Algeria -->
+    <language code="0x1401">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Chinese - Macau SAR -->
+    <language code="0x1404">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- German - Liechtenstein -->
+    <language code="0x1407">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- English - New Zealand -->
+    <language code="0x1409">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Spanish - Costa Rica -->
+    <language code="0x140A">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- French - Luxembourg -->
+    <language code="0x140C">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Arabic - Morocco -->
+    <language code="0x1801">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- English - Ireland -->
+    <language code="0x1809">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Spanish - Panama -->
+    <language code="0x180A">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- French - Monaco -->
+    <language code="0x180C">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Arabic - Tunisia -->
+    <language code="0x1C01">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- English - Southern Africa -->
+    <language code="0x1C09">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Spanish - Dominican Republic -->
+    <language code="0x1C0A">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Arabic - Oman -->
+    <language code="0x2001">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- English - Jamaica -->
+    <language code="0x2009">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Spanish - Venezuela -->
+    <language code="0x200A">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Arabic - Yemen -->
+    <language code="0x2401">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- English - Caribbean -->
+    <language code="0x2409">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Spanish - Colombia -->
+    <language code="0x240A">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Arabic - Syria -->
+    <language code="0x2801">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- English - Belize -->
+    <language code="0x2809">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Spanish - Peru -->
+    <language code="0x280A">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Arabic - Jordan -->
+    <language code="0x2C01">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- English - Trinidad -->
+    <language code="0x2C09">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Spanish - Argentina -->
+    <language code="0x2C0A">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Arabic - Lebanon -->
+    <language code="0x3001">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- English - Zimbabwe -->
+    <language code="0x3009">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Spanish - Ecuador -->
+    <language code="0x300A">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Arabic - Kuwait -->
+    <language code="0x3401">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- English - Phillippines -->
+    <language code="0x3409">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Spanish - Chile -->
+    <language code="0x340A">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Arabic - United Arab Emirates -->
+    <language code="0x3801">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Spanish - Uruguay -->
+    <language code="0x380A">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Arabic - Bahrain -->
+    <language code="0x3C01">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Spanish - Paraguay -->
+    <language code="0x3C0A">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Arabic - Qatar -->
+    <language code="0x4001">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Spanish - Bolivia -->
+    <language code="0x400A">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Spanish - El Salvador -->
+    <language code="0x440A">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Spanish - Honduras -->
+    <language code="0x480A">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Spanish - Nicaragua -->
+    <language code="0x4C0A">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <!-- Spanish - Puerto Rico -->
+    <language code="0x500A">
+      <dpinstTitle>GWInstek USB to UART Bridge Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the GWInstek USB to UART Bridge Driver Setup program.
+This program will install the GWInstek USB to UART Bridge Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the GWInstek USB to UART Bridge Driver.</finishText>
+      <eula type="txt" path="eula-e.txt"/>
+    </language>
+
+    <icon>GWInstek Logo.ico</icon>
+    <headerPath>GWInstek.bmp</headerPath>
+    <legacyMode/>
+</dpInst>

@@ -1,0 +1,17 @@
+E:\Study\VSTest\MeiFenSys\MeiFenSys\bin\Debug\MeiFenSys.exe
+E:\Study\VSTest\MeiFenSys\MeiFenSys\bin\Debug\MeiFenSys.pdb
+E:\Study\VSTest\MeiFenSys\MeiFenSys\obj\Debug\MeiFenSys.Form1.resources
+E:\Study\VSTest\MeiFenSys\MeiFenSys\obj\Debug\MeiFenSys.Properties.Resources.resources
+E:\Study\VSTest\MeiFenSys\MeiFenSys\obj\Debug\MeiFenSys.csproj.GenerateResource.Cache
+E:\Study\VSTest\MeiFenSys\MeiFenSys\obj\Debug\MeiFenSys.exe.licenses
+E:\Study\VSTest\MeiFenSys\MeiFenSys\obj\Debug\MeiFenSys.exe
+E:\Study\VSTest\MeiFenSys\MeiFenSys\obj\Debug\MeiFenSys.pdb
+E:\Study\VSTest\MeiFenSys\MeiFenSys\obj\Debug\MeiFenSys.PlanIn.resources
+E:\Study\VSTest\MeiFenSys\MeiFenSys\obj\Debug\MeiFenSys.Excel.resources
+E:\Study\VSTest\MeiFenSys\MeiFenSys\obj\Debug\MeiFenSys.InBox.resources
+E:\Study\VSTest\MeiFenSys\MeiFenSys\obj\Debug\MeiFenSys.PackCheck.resources
+E:\Study\VSTest\MeiFenSys\MeiFenSys\obj\Debug\MeiFenSys.WaitForm1.resources
+E:\Study\VSTest\MeiFenSys\MeiFenSys\obj\Debug\MeiFenSys.SetStation.resources
+E:\Study\VSTest\MeiFenSys\MeiFenSys\obj\Debug\MeiFenSys.csprojResolveAssemblyReference.cache
+E:\Study\VSTest\MeiFenSys\MeiFenSys\obj\Debug\MeiFenSys.SplashScreen1.resources
+E:\Study\VSTest\MeiFenSys\MeiFenSys\bin\Debug\MeiFenSys.exe.config

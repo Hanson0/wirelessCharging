@@ -1,0 +1,9 @@
+E:\2_工作和软件\1_工作存档\01长虹爱联\禾邦无线充电产品项目\1_工程源码\floatConvertToHex\floatConvertToHex\bin\Debug\floatConvertToHex.exe.config
+E:\2_工作和软件\1_工作存档\01长虹爱联\禾邦无线充电产品项目\1_工程源码\floatConvertToHex\floatConvertToHex\obj\Debug\floatConvertToHex.csprojResolveAssemblyReference.cache
+E:\2_工作和软件\1_工作存档\01长虹爱联\禾邦无线充电产品项目\1_工程源码\floatConvertToHex\floatConvertToHex\obj\Debug\floatConvertToHex.Form1.resources
+E:\2_工作和软件\1_工作存档\01长虹爱联\禾邦无线充电产品项目\1_工程源码\floatConvertToHex\floatConvertToHex\obj\Debug\floatConvertToHex.Properties.Resources.resources
+E:\2_工作和软件\1_工作存档\01长虹爱联\禾邦无线充电产品项目\1_工程源码\floatConvertToHex\floatConvertToHex\obj\Debug\floatConvertToHex.csproj.GenerateResource.Cache
+E:\2_工作和软件\1_工作存档\01长虹爱联\禾邦无线充电产品项目\1_工程源码\floatConvertToHex\floatConvertToHex\bin\Debug\floatConvertToHex.exe
+E:\2_工作和软件\1_工作存档\01长虹爱联\禾邦无线充电产品项目\1_工程源码\floatConvertToHex\floatConvertToHex\bin\Debug\floatConvertToHex.pdb
+E:\2_工作和软件\1_工作存档\01长虹爱联\禾邦无线充电产品项目\1_工程源码\floatConvertToHex\floatConvertToHex\obj\Debug\floatConvertToHex.exe
+E:\2_工作和软件\1_工作存档\01长虹爱联\禾邦无线充电产品项目\1_工程源码\floatConvertToHex\floatConvertToHex\obj\Debug\floatConvertToHex.pdb
